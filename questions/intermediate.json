@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Which sentence is in the past perfect tense?",
+    "options": [
+      "I eat dinner.",
+      "I am eating dinner.",
+      "I had eaten dinner.",
+      "I have eaten dinner."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Choose the correct form: They ___ to the cinema yesterday.",
+    "options": ["go", "goes", "went", "going"],
+    "correct": 2
+  },
+  {
+    "question": "What does the word 'frequently' mean?",
+    "options": ["Rarely", "Often", "Never", "Always"],
+    "correct": 1
+  },
+  {
+    "question": "Which word is an adjective?",
+    "options": ["Quick", "Quickly", "Run", "Running"],
+    "correct": 0
+  },
+  {
+    "question": "Identify the passive voice:",
+    "options": [
+      "She wrote a letter.",
+      "A letter was written by her.",
+      "She is writing a letter.",
+      "She has written a letter."
+    ],
+    "correct": 1
+  }
+]

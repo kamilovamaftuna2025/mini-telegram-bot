@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which sentence uses a conditional correctly?",
+    "options": [
+      "If I will see her, I tell her.",
+      "If I saw her, I would tell her.",
+      "If I see her, I told her.",
+      "If I had saw her, I would told her."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the synonym of 'obligation'?",
+    "options": ["Freedom", "Requirement", "Suggestion", "Option"],
+    "correct": 1
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Neither of the boys have done their homework.",
+      "Neither of the boys has done his homework.",
+      "Neither boys has done their homework.",
+      "Neither the boys has done homework."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Identify the meaning of 'albeit':",
+    "options": ["Because", "Although", "Until", "Unless"],
+    "correct": 1
+  },
+  {
+    "question": "Which is a complex sentence?",
+    "options": [
+      "I went home.",
+      "I went home because I was tired.",
+      "I was tired.",
+      "Go home!"
+    ],
+    "correct": 1
+  }
+]

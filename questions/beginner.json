@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the opposite of 'cold'?",
+    "options": ["Hot", "Dry", "Soft", "Big"],
+    "correct": 0
+  },
+  {
+    "question": "Choose the correct word: I ___ a student.",
+    "options": ["is", "are", "am", "be"],
+    "correct": 2
+  },
+  {
+    "question": "Which one is a color?",
+    "options": ["Run", "Blue", "Fast", "Big"],
+    "correct": 1
+  },
+  {
+    "question": "Select the correct sentence:",
+    "options": ["She like pizza.", "She likes pizza.", "She liking pizza.", "She liked pizza."],
+    "correct": 1
+  },
+  {
+    "question": "What's the plural of 'child'?",
+    "options": ["Childs", "Children", "Childes", "Childer"],
+    "correct": 1
+  }
+]
